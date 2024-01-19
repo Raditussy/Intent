@@ -1,0 +1,40 @@
+<resources>
+    <!-- Nama Aplikasi -->
+    <string name="app_name">MyIntentApp</string>
+
+    <!-- String untuk MoveActivity -->
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Object</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+
+    <!-- Instruksi untuk Memilih Angka -->
+    <string name="choose_number">Pilih angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Pilih</string>
+
+    <!-- Pemberitahuan -->
+    <string name="data_received">Data Diterima</string>
+    <string name="object_received">Object Diterima</string>
+
+    <!-- Informasi tentang MoveActivity -->
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="view_biodata"><![CDATA[<string name=\"view_biodata\">View Biodata</string>\n]]></string>
+    <string name="view_biodat">ViewBiodata\n</string>
+    <string name="address_123_main_st">Address: 123 Main St</string>
+    <string name="gender_male">Gender: Male</string>
+    <string name="age_25">Age: 25</string>
+    <string name="name_john_doe">Name: John Doe</string>
+    <string name="go_to_new_page">Go to New Page</string>
+
+    <string name="name_placeholder">Name: %1$s</string>
+    <string name="age_placeholder">Age: %1$d</string>
+    <string name="gender_placeholder">Gender: %1$s</string>
+    <string name="address_placeholder">Address: %1$s</string>
+
+</resources>
